@@ -3,3 +3,6 @@ print(n)
 
 x = "This is a new Repository"
 print(x)
+
+y = "Commit"
+print(y)
