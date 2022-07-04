@@ -6,3 +6,6 @@ print(x)
 
 y = "Commit"
 print(y)
+
+z = "Push"
+print(z)
