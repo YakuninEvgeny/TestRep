@@ -9,3 +9,6 @@ print(y)
 
 z = "Push"
 print(z)
+
+k = "Merge"
+print(k)
